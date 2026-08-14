@@ -4,7 +4,6 @@ author : ym
 date : 2026-06-26T17:55:00Z
 description : "这是一篇文章"
 draft : false
-slug : test
 tags : 
   - misc1
   - misc2
