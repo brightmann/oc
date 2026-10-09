@@ -2,7 +2,7 @@
 const { withContentlayer} = require('next-contentlayer')
 
 const nextconfig = {
-  reactStrictMode: true,
+  reactStrictMode: false,
   disableImportAliasWarning: true,
 }
 
